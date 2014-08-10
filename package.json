@@ -1,0 +1,30 @@
+{
+  "name": "css-triggers",
+  "version": "0.0.0",
+  "description": "CSS-triggers-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lafikl/CSS-triggers-cli.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lafikl/CSS-triggers-cli/issues"
+  },
+  "homepage": "https://github.com/lafikl/CSS-triggers-cli",
+  "bin": {
+    "css-triggers": "./bin/cli.js"
+  },
+  "dependencies": {
+    "cli-table": "^0.3.0",
+    "css": "^2.1.0",
+    "lodash.foreach": "^2.4.1"
+  },
+  "devDependencies": {
+    "tap": "^0.4.12"
+  }
+}
