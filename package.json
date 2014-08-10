@@ -1,10 +1,10 @@
 {
   "name": "css-triggers",
-  "version": "0.0.0",
-  "description": "CSS-triggers-cli",
+  "version": "0.0.1",
+  "description": "CLI utility that tests your css files for trigger. Based on http://csstriggers.com/ ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap ./tests/index.js"
   },
   "repository": {
     "type": "git",
