@@ -1,4 +1,4 @@
-CSS-triggers-cli
+CSS-triggers
 ================
 
 A CLI utility that tests your css files for triggers. Based on http://csstriggers.com
@@ -10,7 +10,7 @@ $ npm install css-triggers -g
 # Usage
 
 ```
-$ css-trigger app.css
+$ css-triggers app.css
 ```
 
 change app.css for the path of the CSS file you want to test.
