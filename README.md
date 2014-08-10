@@ -15,6 +15,7 @@ $ css-triggers app.css
 
 change app.css for the path of the CSS file you want to test.
 
+![results](https://raw.githubusercontent.com/lafikl/CSS-triggers-cli/master/result.png)
 
 
 # Author
